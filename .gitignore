@@ -1,0 +1,36 @@
+# Ignore compiled binary files
+*.hex
+*.bin
+
+# Ignore build output directories
+/build/
+/.pio/
+
+# Ignore editor and IDE specific files
+.vscode/
+.idea/
+
+# Ignore system and temporary files
+.DS_Store
+Thumbs.db
+
+# Ignore configuration files
+config.h
+
+# Ignore user-specific files
+*.user
+
+# Ignore library dependencies
+/libraries/
+
+# Ignore specific board configurations
+/.arduino15/
+
+# Ignore debugging files
+*.swp
+*.swo
+*.log
+*.tmp
+
+# Ignore backup files
+*~
